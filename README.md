@@ -67,8 +67,8 @@ Ending module. endmodule is a keywords defined in Verilog.
 ``` python
 
 Program for  Implementation-of Shift-registers-using-verilog-
-Developed by: Monisha T
-RegisterNumber: 212221240029 
+Developed by: pragatheesvaran AB
+RegisterNumber: 212221240039 
 
 ```
 ## SIPO :
